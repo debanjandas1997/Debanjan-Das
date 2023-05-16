@@ -1,0 +1,13 @@
+1.Xpath i have to change 2-3 Relative Xpath.
+2. Test for clear the all filds. 
+
+3. loges 4 net
+4. Dynamic Waits 
+5.I have to hide email & password
+6.Proper Name to give the test.
+
+[Done]
+1. Proper Name to give the test.
+2. Xpath i have to change absolute.
+4. Dynamic Waits 
+5.I have to hide email & pass
